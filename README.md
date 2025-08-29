@@ -15,13 +15,13 @@
 ---
 Check out my personal portfolio and online CV at:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=safoine27&repo=my-portfolio&theme=transparent)](https://github.com/safoine27/my-portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=safoine27&repo=cv&theme=transparent&hide=php)](https://github.com/safoine27/cv)
+[![Readme Card](portfolio.png)](https://safoine-benhmida.vercel.app/)
+[![Readme Card](cv.png)](https://safoine27.github.io/cv/)
 
+Source codes at: [Portfolio](https://github.com/my-portfolio) | [CV](https://github.com/safoine27/cv) 
 
 ## 🛠️ Skills & Expertise
 
-<!-- Logos via Shields.io and simple SVGs; you can update links to your own accounts -->
 
 <div align="left">
 
