@@ -18,7 +18,7 @@ Check out my personal portfolio and online CV at:
 [![Readme Card](portfolio.png)](https://safoine-benhmida.vercel.app/)
 [![Readme Card](cv.png)](https://safoine27.github.io/cv/)
 
-Source codes at: [Portfolio](https://github.com/my-portfolio) | [CV](https://github.com/safoine27/cv) 
+Source codes at: [Portfolio](https://github.com/safoine27/my-portfolio) | [CV](https://github.com/safoine27/cv) 
 
 ## 🛠️ Skills & Expertise
 
